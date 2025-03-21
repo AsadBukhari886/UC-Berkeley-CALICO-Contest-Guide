@@ -19,29 +19,24 @@ Welcome to the official documentation for the **UC Berkeley Calico Contest Works
 ## 🎤 Speakers & Their Sessions
 Below is the list of our esteemed speakers and the sessions they conducted:
 
-```markdown
-| Day  | Speaker         | LinkedIn Profile |
-|------|---------------|-----------------|
-| Day 1 | [Ayesha Andleeb] | [[LinkedIn Profile](https://www.linkedin.com/in/ayesha-andleeb-262352278/)] |
-| Day 2 | [Ameer Hamza khetran] | [[LinkedIn Profile](https://www.linkedin.com/in/ameer-hamza-khetran/)] |
-| Day 3 | [Asad Bukhari] | [[LinkedIn Profile](https://www.linkedin.com/in/asadbukhari886/)] |
-| Day 4 | [Muhammad Faizan Anis] | [[LinkedIn Profile](https://www.linkedin.com/in/muhammad-faizan-anis/)] |
-| Day 5 | [Aymen Noor] | [[LinkedIn Profile](https://www.linkedin.com/in/aymen-noor/)] |
-```
+| Day  | Speaker                 | LinkedIn Profile |
+|------|-------------------------|-----------------|
+| Day 1 | **Ayesha Andleeb**       | [LinkedIn](https://www.linkedin.com/in/ayesha-andleeb-262352278/) |
+| Day 2 | **Ameer Hamza Khetran**  | [LinkedIn](https://www.linkedin.com/in/ameer-hamza-khetran/) |
+| Day 3 | **Asad Bukhari**         | [LinkedIn](https://www.linkedin.com/in/asadbukhari886/) |
+| Day 4 | **Muhammad Faizan Anis** | [LinkedIn](https://www.linkedin.com/in/muhammad-faizan-anis/) |
+| Day 5 | **Aymen Noor**           | [LinkedIn](https://www.linkedin.com/in/aymen-noor/) |
 
 ## 🎥 Recorded Sessions
 Each session was recorded and is available for participants to revisit.
 
-
-```markdown
-| Day  | Topic                                 | Recording Link |
-|------|--------------------------------------|---------------|
-| Day 1 | Introduction to UC Berkeley Calico Contest and application process | [Watch Here](https://www.facebook.com/share/v/15rYfTzCyw/?mibextid=oFDknk) |
-| Day 2 | First problem | [Watch Here](https://www.facebook.com/share/v/1AKApcmokf/?mibextid=oFDknk) |
-| Day 3 | Second problem | [Watch Here](https://www.facebook.com/share/v/1BK95nqLTm/?mibextid=oFDknk) |
-| Day 4 | Third problem | [Watch Here](https://www.facebook.com/share/v/1BK95nqLTm/?mibextid=oFDknk) |
-| Day 5 | Fourht and fifth proble | [Watch Here](https://www.facebook.com/share/v/19R68pxMRm/?mibextid=oFDknk) |
-```
+| Day  | Topic                                  | Recording Link |
+|------|--------------------------------------|----------------|
+| Day 1 | **Introduction to UC Berkeley Calico Contest and application process** | [Watch Here](https://www.facebook.com/share/v/15rYfTzCyw/?mibextid=oFDknk) |
+| Day 2 | **First problem** | [Watch Here](https://www.facebook.com/share/v/1AKApcmokf/?mibextid=oFDknk) |
+| Day 3 | **Second problem** | [Watch Here](https://www.facebook.com/share/v/1BK95nqLTm/?mibextid=oFDknk) |
+| Day 4 | **Third problem** | [Watch Here](https://www.facebook.com/share/v/1BK95nqLTm/?mibextid=oFDknk) |
+| Day 5 | **Fourth and fifth problems** | [Watch Here](https://www.facebook.com/share/v/19R68pxMRm/?mibextid=oFDknk) |
 
 ## 📢 Workshop Poster
 ![Workshop Poster](https://github.com/AsadBukhari886/UC-Berkeley-CALICO-Contest-Guide/blob/main/workshop_poster.jpeg)
@@ -52,5 +47,4 @@ For further queries, feel free to reach out!
 
 ---
 📌 **Follow for More Updates**
-
 
