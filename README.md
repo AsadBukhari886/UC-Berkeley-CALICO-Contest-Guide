@@ -23,10 +23,10 @@ Below is the list of our esteemed speakers and the sessions they conducted:
 | Day  | Speaker         | LinkedIn Profile |
 |------|---------------|-----------------|
 | Day 1 | [Ayesha Andleeb] | [[LinkedIn Profile](https://www.linkedin.com/in/ayesha-andleeb-262352278/)] |
-| Day 2 | [Ameer Hamza] | [LinkedIn Profile] |
+| Day 2 | [Ameer Hamza khetran] | [[LinkedIn Profile](https://www.linkedin.com/in/ameer-hamza-khetran/)] |
 | Day 3 | [Asad Bukhari] | [[LinkedIn Profile](https://www.linkedin.com/in/asadbukhari886/)] |
-| Day 4 | [Faizan] | [LinkedIn Profile] |
-| Day 5 | [Aymen] | [[LinkedIn Profile](https://www.linkedin.com/in/aymen-noor/)] |
+| Day 4 | [Muhammad Faizan Anis] | [[LinkedIn Profile](https://www.linkedin.com/in/muhammad-faizan-anis/)] |
+| Day 5 | [Aymen Noor] | [[LinkedIn Profile](https://www.linkedin.com/in/aymen-noor/)] |
 ```
 
 ## 🎥 Recorded Sessions
